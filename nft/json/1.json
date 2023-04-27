@@ -1,0 +1,30 @@
+{
+  "name": "Dumb Cars #1",
+  "description": "These cars are dumb af.",
+  "file_url": "https://ipfs.io/ipfs/Qme9NSUBvZ2NCaWnfFAaGJbauxECc5JqKBon97TB82uKUR/1.png",
+  "custom_fields": {
+    "dna": "c4db7c6d8d02b5a991de7a4fdc72945f2e6c9f3e",
+    "edition": 1,
+    "date": 1682346058506,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "https://dumbcars.xyz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "white"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Cabin",
+      "value": "Rectangle"
+    },
+    {
+      "trait_type": "Wheels",
+      "value": "Small"
+    }
+  ]
+}
